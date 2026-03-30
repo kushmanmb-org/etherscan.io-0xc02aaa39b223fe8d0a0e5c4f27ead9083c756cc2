@@ -1,0 +1,21 @@
+{
+  "name": "etherscan.io-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kushmanmb-org/etherscan.io-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kushmanmb-org/etherscan.io-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/issues"
+  },
+  "homepage": "https://github.com/kushmanmb-org/etherscan.io-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#readme"
+}
