@@ -1,7 +1,7 @@
 {
-  "name": "etherscan.io-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+  "name": "weth9-contract",
   "version": "1.0.0",
-  "description": "",
+  "description": "WETH9 (Wrapped Ether) smart contract",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
